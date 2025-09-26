@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 <h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-</div>
 
-<div align="center">
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
+
   
 <!--
 **k0081915/k0081915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
