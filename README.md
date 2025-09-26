@@ -6,7 +6,8 @@
 </div>
 
 <div align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
 </div>
   
 <!--
