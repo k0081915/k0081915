@@ -1,4 +1,4 @@
-## Hi there 👋
+## DongHyeok Kim 👋
 
 <h3 align="center">📚 Studying 📚</h3>
 
