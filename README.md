@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=Donghyeok's%20Github&fontSize=60" />
 
 <div align=center>
-<h3>반갑습니다! 김동혁입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" /></h3>
+<h3>안녕하세요! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" /></h3>
 
 <h3> 🏫 Education 🏫</h3>
 <strong>Sejong University</strong> - Department of Software (Mar 2019 ~ Aug 2025)
