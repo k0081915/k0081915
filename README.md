@@ -15,4 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# GitHub 평판을 나타내는 위젯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>  
