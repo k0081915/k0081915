@@ -4,7 +4,11 @@
 <h3>반갑습니다! 김동혁입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3> 🏫 Education 🏫</h3>
+- **Sejong University **
+  - Department of Software (Mar 2019 ~ Aug 2025)
+
+<h3>📚 Studying 📚</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
