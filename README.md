@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Donghyeok's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Donghyeok's%20Github&fontColor=CC" />
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Donghyeok's%20Github" />
 
 <div align=center>
