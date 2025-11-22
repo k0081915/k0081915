@@ -5,8 +5,12 @@
 </h3>
 
 <h3> 🏫 Education 🏫</h3>
-- **Sejong University **
-  - Department of Software (Mar 2019 ~ Aug 2025)
+<ul>
+  <li><strong>Sejong University</strong></li>
+  <ul>
+    <li>Department of Software (Mar 2019 ~ Aug 2025)</li>
+  </ul>
+</ul>
 
 <h3>📚 Studying 📚</h3>
 
