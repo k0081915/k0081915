@@ -5,9 +5,9 @@
 </h3>
 
 <h3> 🏫 Education 🏫</h3>
-<ul>
+<ul dir="auto">
   <li><strong>Sejong University</strong></li>
-  <ul>
+  <ul dir="auto">
     <li>Department of Software (Mar 2019 ~ Aug 2025)</li>
   </ul>
 </ul>
