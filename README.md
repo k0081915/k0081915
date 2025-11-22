@@ -6,6 +6,8 @@
 
 <h3> 🏫 Education 🏫</h3>
 <strong>Sejong University</strong> - Department of Software (Mar 2019 ~ Aug 2025)
+<br>
+<strong>LG U+ Ureca, 3st</strong> - Backend (Aug 2025 ~ )
 
 <h3>📚 Studying 📚</h3>
 
