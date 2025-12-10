@@ -21,7 +21,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![k0081915's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915)](https://github.com/k0081915/github-readme-stats)
 
 
 
