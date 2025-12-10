@@ -21,12 +21,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
 
 
+</div>  
 [![k0081915's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915)](https://github.com/k0081915/github-readme-stats)
-
-
-
 <!-- # GitHub 평판을 나타내는 위젯 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>  
