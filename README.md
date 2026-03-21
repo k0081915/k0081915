@@ -3,9 +3,9 @@
 <div align=center>
 
 <h3> 🏫 Education 🏫</h3>
-<strong>Sejong University</strong> - Department of Software (Mar 2019 ~ Aug 2025)
+<strong>Sejong University</strong> - Department of Software (2019.03 ~ 2025.08)
 <br><br>
-<strong>LG U+ Ureca, 3st</strong> - Backend (Aug 2025 ~ )
+<strong>LG U+ Ureca, 3st</strong> - Backend (2025.08 ~ 2026.03)
 
 <h3>📚 Studying 📚</h3>
 
