@@ -35,5 +35,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0081915&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0081915)](https://github.com/k0081915/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915&show_icons=true&cache_seconds=1800)](https://github.com/k0081915/github-readme-stats)
