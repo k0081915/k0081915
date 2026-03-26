@@ -35,5 +35,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k00819)](https://solved.ac/k00819)
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0081915)](https://github.com/k0081915/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=k0081915&show_icons=true&cache_seconds=1800)](https://github.com/k0081915/github-readme-stats)
+| Top Languages | GitHub Stats |
+|---|---|
+| [![Most Used Languages](https://helio-github-stats.vercel.app/api/top-langs?username=k0081915&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+Used+Languages)](https://nice-readme.vercel.app/top-langs) | [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=k0081915&custom_title=GitHub+Stats&theme=onedark&title_color=2f80ed&text_color=ffffff&icon_color=2654fd&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&hide=stars&show=reviews)](https://nice-readme.vercel.app/github-stats)
